@@ -1,5 +1,6 @@
 # React Read More Less
 
+[![NPM](https://nodei.co/npm/react-read-more-less.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/react-read-more-less/)
 [![npm version](https://badge.fury.io/js/react-read-more-less.svg)](https://badge.fury.io/js/react-read-more-less)
 ![license-isc](https://img.shields.io/github/license/Thamodaran/react-read-more-less.svg)
 
