@@ -1,4 +1,8 @@
 # React Read More Less
+
+[![npm version](https://badge.fury.io/js/react-read-more-less.svg)](https://badge.fury.io/js/react-read-more-less)
+![license-isc](https://img.shields.io/github/license/Thamodaran/react-read-more-less.svg)
+
 ## Install
 ```
 npm install react-read-more-less --save
